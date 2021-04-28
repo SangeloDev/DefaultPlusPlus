@@ -1,5 +1,15 @@
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 
+/* User Modal and Popup */
+:root {
+  --playing: #7289DA;
+  --spotify: #1DB954;
+  --streaming: #593695;
+  --xbox: #53a853;
+  --background-tertiary-alt: #36393F;
+  --border-radius: 10px;
+}
+
 .root-SR8cQa {
   transform: translateZ(0);
 }
